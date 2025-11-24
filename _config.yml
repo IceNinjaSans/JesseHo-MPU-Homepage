@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Ultra Me - 複製.png"
+  avatar           : "images/Ultra Me-複製.png"
   name             : "Ho U Him (Jesse)"
   pronouns         : "he/him"  
   bio              : "a young 18 years old fellow :D"
@@ -68,7 +68,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "iceninjarblx"
+  steam            : "76561199009180933"
   telegram         : # URL
   tumblr           : # Username
   twitter          : "@IceNinjaSans"
