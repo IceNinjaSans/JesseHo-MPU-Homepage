@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Jesse Ho / MPU personal Homepage"
 title_separator          : "-"
 name                     : &name "Jesse Ho"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Jesse Ho's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://iceninjasans.github.io/JesseHo-MPU-Homepage # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : "https://www.mpu.edu.mo/en/index.php"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/yourorcidurl"
@@ -63,12 +63,12 @@ author:
   keybase          : # Username
   instagram        : "jesseho_iceninjasans"
   lastfm           : # Username
-  linkedin         : "Jesse Ho U Him"
+  linkedin         : "jesse-ho-u-him-784778348"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "IceNinjaSans"
+  steam            : "iceninjarblx"
   telegram         : # URL
   tumblr           : # Username
   twitter          : "@IceNinjaSans"
