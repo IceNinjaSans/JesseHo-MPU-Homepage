@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/Ultra Me - 複製.png"
   name             : "Ho U Him (Jesse)"
   pronouns         : "he/him"  
   bio              : "a young 18 years old fellow :D"
@@ -55,13 +55,13 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "Jesse Ho"
+  facebook         : "Jesse.Ho.U.Him"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "Jesse Ho"
+  instagram        : "jesseho_iceninjasans"
   lastfm           : # Username
   linkedin         : "Jesse Ho U Him"
   mastodon         : # URL
